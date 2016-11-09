@@ -300,7 +300,7 @@
 - [大家有哪些好的 Android 开发习惯?](https://www.zhihu.com/question/27227425)
 - [Android 开发有什么好的架构么?](https://www.zhihu.com/question/21406685)
 
-
+ 
 ## License
 
 以上内容采用 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh) 进行许可, 转载请注明出处, 版权归本人及所有贡献者所有
